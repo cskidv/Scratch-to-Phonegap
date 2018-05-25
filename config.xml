@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "virtualpet.caphe10.edu.scratch.mit"
+        id          = "headtracking.caphe10.edu.scratch.mit"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>VirtualPet</name>
+    <name>Head Tracker</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap
     </description>
 
-    <author href="http://scratch.mit.edu/users/CAPHE10" email="trandu@gmail.com">
+    <author href="http://scratch.mit.edu/users/CAPHE10" email="vidutran17@gmail.com">
         CAPHE10
     </author>
 
